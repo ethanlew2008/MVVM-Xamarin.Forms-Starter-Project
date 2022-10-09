@@ -10,6 +10,7 @@ namespace DataBinding
 {
     internal class MainPageVeiwModel : BindableBase
     {
+        //
 
         public ICommand ButtonCommand { private set; get; }
 
